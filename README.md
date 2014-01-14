@@ -1,1 +1,3 @@
-This is the readme file. Edit it.
+On the mac, use Webstorm to commit/push changes.
+
+On indigo do: git pull origin master
